@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>93586133094-vvsmv325l6rqfe3iu035ot5kvb49329v.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.93586133094-vvsmv325l6rqfe3iu035ot5kvb49329v</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAaN_4P6OZJO1yG0GMJ_Vaac9lwRZtTLVo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>93586133094</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.kodmy.newsapp</string>
+	<key>PROJECT_ID</key>
+	<string>kodmy-4ebc6</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kodmy-4ebc6.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:93586133094:ios:6bb55b41f48b6485889da7</string>
+	<key>DATABASE_URL</key>
+	<string>https://kodmy-4ebc6.firebaseio.com</string>
+</dict>
+</plist>
